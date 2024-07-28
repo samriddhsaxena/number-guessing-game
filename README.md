@@ -1,0 +1,1 @@
+This repository contains Number Guessing Game made using HTML and JS. There is no CSS file as it doesn't contain CSS code.
